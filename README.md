@@ -1,10 +1,3 @@
----
-title: "Untitled"
-author: "_me_"
-date: "25/04/2020"
-output: word_document
----
-
 ## Peer-graded Assignment: Getting and Cleaning Data Course Project
 This repository is a submission for Getting and Cleaning Data Peer-Graded project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
