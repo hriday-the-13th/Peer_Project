@@ -8,8 +8,9 @@ output: word_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-## R Markdown
+The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
+## 1.Download the dataset
+*Dataset downloaded and extracted under the folder called UCI HAR Dataset
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
